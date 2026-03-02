@@ -1,0 +1,13 @@
+print sqrt(16);
+print floor(3.7);
+print abs(-2);
+print min(3, 1);
+print max(3, 1);
+print sin(0);
+print cos(0);
+print type(nil);
+print type(1);
+print type([]);
+print type(true);
+assert(1 == 1, "ok");
+print "assert passed";
