@@ -1,0 +1,2 @@
+[line 2] RuntimeError: function 'two' expects 2 argument(s) but got 1
+  at <script> (line 2)
