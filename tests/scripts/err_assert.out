@@ -1,0 +1,2 @@
+[line 1] RuntimeError: assertion failed: math is broken
+  at <script> (line 1)
