@@ -1,0 +1,2 @@
+[line 1] RuntimeError: assignment to undefined variable 'nope'
+  at <script> (line 1)
