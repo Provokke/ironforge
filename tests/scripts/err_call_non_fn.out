@@ -1,0 +1,2 @@
+[line 2] RuntimeError: cannot call a value of type number
+  at <script> (line 2)
