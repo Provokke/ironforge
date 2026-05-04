@@ -1,0 +1,1 @@
+[line 2] CompileError at 'a': cannot read local variable in its own initializer
