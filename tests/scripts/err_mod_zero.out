@@ -1,0 +1,2 @@
+[line 1] RuntimeError: modulo by zero
+  at <script> (line 1)
