@@ -1,0 +1,2 @@
+[line 2] RuntimeError: cannot read property 'x' of number
+  at <script> (line 2)
