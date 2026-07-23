@@ -1,0 +1,3 @@
+[line 1] RuntimeError: operands of '-' must be numbers, got number and string
+  at f (line 1)
+  at <script> (line 2)
