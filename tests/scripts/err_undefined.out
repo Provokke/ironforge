@@ -1,0 +1,3 @@
+before
+[line 2] RuntimeError: undefined variable 'missing'
+  at <script> (line 2)
